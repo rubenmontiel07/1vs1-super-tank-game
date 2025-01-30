@@ -20,3 +20,11 @@ Hemos añadido el sprite del mapa del juego. En este caso el mapa plano.
 ![enter image description here](https://i.postimg.cc/sgKyv84k/Plain-Level.png)
 
 Posteriormente, hemos programado un efecto de explosión para los tanques cuando uno de los dos es alcanzado por una bala.
+# Semana 27 al 31 Enero
+**Día 30 de Enero:** Hoy hemos creado nuestro propio bloque en Scratch. El trabajo de hoy va orientado a la creación del sistema de colisiones del juego. Además, hemos cambiado el fondo del juego al siguiente:
+
+[![Level1.png](https://i.postimg.cc/Y9Yq40wr/Level1.png)](https://postimg.cc/LY4MwHXw)
+
+Las colisiones permiten que los tanques interactúen con las cajas del escenario permitiendo usar estas para cubrirnos de los disparos. Así mismo, aprovecharemos este mismo sistema para que los tanques no se puedan traspasar entre ellos. (Cosa que hasta hora estaba sucediendo). Y por último, también vamos a hacer que los tanques no puedan atravesar las cajas.
+
+A parte del sistema de colisiones, hemos comenzado a crear un sistema de puntos y de victoria que nos permite contabilizar cuantas veces hemos destruido el tanque rival. 
