@@ -28,3 +28,5 @@ Posteriormente, hemos programado un efecto de explosión para los tanques cuando
 Las colisiones permiten que los tanques interactúen con las cajas del escenario permitiendo usar estas para cubrirnos de los disparos. Así mismo, aprovecharemos este mismo sistema para que los tanques no se puedan traspasar entre ellos. (Cosa que hasta hora estaba sucediendo). Y por último, también vamos a hacer que los tanques no puedan atravesar las cajas.
 
 A parte del sistema de colisiones, hemos comenzado a crear un sistema de puntos y de victoria que nos permite contabilizar cuantas veces hemos destruido el tanque rival. 
+
+**Día 31 de enero**: Hemos continuado con la creación del sistema de rondas del Juego. Así como con la creación de un sistema de victoria.  Además, hemos solucionado una serie de bugs en el código que impedían el correcto funcionamiento del juego. Por último, hemos terminado de descargar y subir al github todos los assets y sprites que necesitamos. 
