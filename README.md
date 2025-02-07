@@ -30,3 +30,6 @@ Las colisiones permiten que los tanques interactúen con las cajas del escenario
 A parte del sistema de colisiones, hemos comenzado a crear un sistema de puntos y de victoria que nos permite contabilizar cuantas veces hemos destruido el tanque rival. 
 
 **Día 31 de enero**: Hemos continuado con la creación del sistema de rondas del Juego. Así como con la creación de un sistema de victoria.  Además, hemos solucionado una serie de bugs en el código que impedían el correcto funcionamiento del juego. Por último, hemos terminado de descargar y subir al github todos los assets y sprites que necesitamos. 
+
+# Semana 3 al 9 de Febrero
+**Día 7 de febrero**: Hemos creado un menú interactivo para el juego. Lo que mejora en gran medida el aspecto del juego y su correcto desarrollo. Además de comenzar la creación de un sistema que permita cambiar de mapas de una forma aleatoria al finalizar las rondas.
