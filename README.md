@@ -33,3 +33,14 @@ A parte del sistema de colisiones, hemos comenzado a crear un sistema de puntos 
 
 # Semana 3 al 9 de Febrero
 **Día 7 de febrero**: Hemos creado un menú interactivo para el juego. Lo que mejora en gran medida el aspecto del juego y su correcto desarrollo. Además de comenzar la creación de un sistema que permita cambiar de mapas de una forma aleatoria al finalizar las rondas.
+
+# Semana 10-16 De Febrero
+
+**Día 13 de febrero:** Hoy finalizamos con el sistema de aleatoriedad de los mapas. Permitiendo así que estos vayan cambiando por sí solos al finalizar las rondas. Algunos de los mapas introducidos son los siguientes: 
+
+[![Level2.png](https://i.postimg.cc/TYwPdkxf/Level2.png)](https://postimg.cc/c6pWTB6b)
+
+[![Level3.png](https://i.postimg.cc/nrwp9JxZ/Level3.png)](https://postimg.cc/Fkc2ww1n)
+
+
+
