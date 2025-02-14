@@ -10,6 +10,10 @@ Crear un juego de dos jugadores donde el objetivo será destruir el tanque rival
 Hemos utilizado la siguiente lista de vídeos: https://youtu.be/qT2K4KvXe5Y?si=M4m_UoJu2uMGZffU
 Y los recursos que de ellos provienen (subidos al github)
 
+**Presentación**
+
+Este es el enlace de la presentación creada en canva para el juego: https://www.canva.com/design/DAGeaaUTlls/5CIFG4tiww52OnIfC36v3Q/edit
+
 ## **Miembros del equipo**
 
  - Rubén
