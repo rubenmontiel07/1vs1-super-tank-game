@@ -1,5 +1,14 @@
 # 1vs1-super-tank-game
 Esto va a ser un juego 1vs1 de tanques donde debes destruir el tanque rival para ganar.
+
+**Objeivo del juego**
+Crear un juego de dos jugadores donde el objetivo será destruir el tanque rival. Implementaremos controles para dos tanques, colisiones y cajas para poder cubrirnos. Un sistema de puntaje, un cambío de mapas y power-ups.
+
+**Recursos usados**
+
+Hemos utilizado la siguiente lista de vídeos: https://youtu.be/qT2K4KvXe5Y?si=M4m_UoJu2uMGZffU
+Y los recursos que de ellos provienen (subidos al github)
+
 ## **Miembros del equipo**
 
  - Rubén
@@ -42,5 +51,6 @@ A parte del sistema de colisiones, hemos comenzado a crear un sistema de puntos 
 
 [![Level3.png](https://i.postimg.cc/nrwp9JxZ/Level3.png)](https://postimg.cc/Fkc2ww1n)
 
+**Día 14 de febrero**: Hemos finalizado el juego por completo y terminado el sistema de power-ups.
 
 
